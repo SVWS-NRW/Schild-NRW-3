@@ -1,9 +1,13 @@
 ![alttext](https://user-images.githubusercontent.com/34127980/96366665-4b630f00-1149-11eb-87e0-e4ed45aec95b.jpg)
 
-# Schild3-BetaTest
-Fachberater-Repository für den Beta-Test über GitHub Issues
+# Schild-NRW-3
 
-Hier werden Dokumente und Hinweise zum Beta-Test für Schild-NRW3.0 abgelegt.
+
+Download-Repository für die Releases von Schild-NRW-3.
+Fachberater-Repository für den Test über GitHub Issues für rein technische Hinweise.
+Schulfachlice Diskussionen bitte weiterhin im Anwenderforum posten.
+
+Hier werden Dokumente und Hinweise zum Test für Schild-NRW3.0 abgelegt.
 
 Über die GitHUb-Issues können alle Fachberater Fehler melden und beschreiben.
 
