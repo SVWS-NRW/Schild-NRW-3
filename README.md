@@ -4,7 +4,7 @@
 
 
 Download-Repository für die Releases von Schild-NRW-3.
-Fachberater-Repository für den Test über GitHub Issues für rein technische Hinweise. Schulfachlice Diskussionen bitte weiterhin im Anwenderforum posten.
+Fachberater-Repository für den Test über GitHub Issues für rein technische Hinweise. Schulfachliche Diskussionen bitte weiterhin im Anwenderforum posten.
 
 Hier werden Dokumente und Hinweise zum Test für Schild-NRW3.0 abgelegt.
 
