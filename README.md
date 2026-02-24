@@ -8,6 +8,8 @@ Fachberater-Repository für den Test über GitHub Issues für rein technische Hi
 
 Hier werden Dokumente und Hinweise zum Test für Schild-NRW3.0 abgelegt.
 
+Eine ausführliche Dokumentation steht im  [SchILD-NRW3 Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchILD-NRW_3) zur Verfügung.
+
 Über die GitHUb-Issues können alle Fachberatenden Fehler melden und beschreiben.
 
 Wichtig! Es folgen einige Hinweise zur Meldung von Fehlern:
