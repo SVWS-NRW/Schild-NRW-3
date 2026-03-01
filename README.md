@@ -6,7 +6,7 @@
 Download-Repository für die Releases von Schild-NRW-3.
 Fachberater-Repository für den Test über GitHub Issues für rein technische Hinweise. Schulfachliche Diskussionen bitte weiterhin im Anwenderforum posten.
 
-Hier werden Dokumente und Hinweise zum Test für Schild-NRW3.0 abgelegt.
+Hier können ausschließlich Bug-Meldungen über die GitHub-Issues geschreiben werden.
 
 Eine ausführliche Dokumentation steht im  [SchILD-NRW3 Wiki](https://schulverwaltungsinfos.nrw.de/svws/wiki/index.php?title=SchILD-NRW_3) zur Verfügung.
 
@@ -20,4 +20,6 @@ Wichtig! Es folgen einige Hinweise zur Meldung von Fehlern:
 * Bitte beschreiben Sie den Fehler so genau wie möglich und geben Sie Versionsdaten mit an.
 
 > [!CAUTION]
-> Verwenden Sie bitte niemals Echtdaten!
+> Verwenden Sie bitte niemals Echtdaten für Meldungen in diesem Repository!
+> Kontrollieren Sie bitte Fehlernmeldungen und Log-dateien auf personenbezogene Daten und Geheimnisse!
+> Schreiben Sie bitte keine Kennwörter oder KLarnamen in Meldungen.
