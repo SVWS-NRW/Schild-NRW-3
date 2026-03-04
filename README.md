@@ -22,4 +22,4 @@ Wichtig! Es folgen einige Hinweise zur Meldung von Fehlern:
 > [!CAUTION]
 > Verwenden Sie bitte niemals Echtdaten für Meldungen in diesem Repository!
 > Kontrollieren Sie bitte Fehlernmeldungen und Log-dateien auf personenbezogene Daten und Geheimnisse!
-> Schreiben Sie bitte keine Kennwörter oder KLarnamen in Meldungen.
+> Schreiben Sie bitte keine Kennwörter oder Klarnamen in Meldungen.
