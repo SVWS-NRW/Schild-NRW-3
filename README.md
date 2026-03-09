@@ -2,6 +2,13 @@
 
 # Schild-NRW-3
 
+## Bitte beachten Sie, dass Schild-NRW3 immer einen laufenden SVWS-Server benötigt!
+
+Die Dokumenation des SVWS-Servers finden Sie hier:
+https://doku.svws-nrw.de/
+
+Der SVWS-Server muss für Schild-NRW 3in einer lauffähigen Version zur Verfügung stehen.
+Informationen zum Release finden Sie im *Releaseprozess.md. 
 
 Download-Repository für die Releases von Schild-NRW-3.
 Fachberater-Repository für den Test über GitHub Issues für rein technische Hinweise. Schulfachliche Diskussionen bitte weiterhin im Anwenderforum posten.
