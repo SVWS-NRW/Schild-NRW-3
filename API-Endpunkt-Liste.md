@@ -1,3 +1,4 @@
+``` MD
 # Liste der derzeit verwendeten API-Aufrufe. Das erste „%s“ ist ein Platzhalter für den Servernamen, das zweite „%s“ ein Platzhalter für den Schemanamen
 
 https://%s/status/alive
@@ -132,3 +133,5 @@ KAOAZusatzmerkmal
 KAOABerufsfeld
 KAOAEbene4
 Verkehrssprache
+
+```
